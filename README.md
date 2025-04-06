@@ -35,7 +35,7 @@ background-color: #e6f7ff;
 </head>
 <body>
 
-<h2 style="text-align:center;">My Busy Day Schedule</h2>
+<h2 style="text-align:center;">My Daily Schedule</h2>
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ background-color: #e6f7ff;
 </tr>
 <tr>
 <td class="first-column">9:00 AM</td>
-<td>Attend online class</td>
+<td>Go for a walk</td>
 </tr>
 <tr class="highlight-row">
 <td class="first-column">11:00 AM</td>
@@ -64,11 +64,11 @@ background-color: #e6f7ff;
 </tr>
 <tr>
 <td class="first-column">2:00 PM</td>
-<td>Group project meeting</td>
+<td>Student Council meeting</td>
 </tr>
 <tr class="highlight-row">
 <td class="first-column">4:00 PM</td>
-<td>Go for a walk</td>
+<td>Clean my room</td>
 </tr>
 <tr>
 <td class="first-column">6:00 PM</td>
